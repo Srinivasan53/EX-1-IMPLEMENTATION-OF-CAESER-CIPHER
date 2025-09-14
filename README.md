@@ -79,8 +79,7 @@ plain[length] = '\0'; // Null-terminate the plain text string return 0;
 }
 ```
 
-OUTPUT :-
-
+## OUTPUT:
 
 
 <img width="444" height="235" alt="Screenshot 2025-09-14 145111" src="https://github.com/user-attachments/assets/6f4dbcd7-c656-4b78-bf12-de0c8dc0f75d" />
@@ -88,8 +87,6 @@ OUTPUT :-
 
 
 ## RESULT: 
-
-
 The program implementing the Caesar cipher for encryption and decryption has been successfully  executed, and the results have been verified.
 
 
